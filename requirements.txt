@@ -1,6 +1,6 @@
 streamlit
-mediapipe
+opencv-python-headless
+mediapipe==0.9.0.1
 numpy
 Pillow
-opencv-python-headless
 protobuf==3.20.3
