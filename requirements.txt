@@ -3,3 +3,4 @@ mediapipe
 numpy
 Pillow
 opencv-python-headless
+protobuf==3.20.3
